@@ -1,0 +1,93 @@
+
+/*Margin*/
+.mt0{
+    margin-top:0px;
+}
+.mt10{
+    margin-top:10px;
+}
+.mt15{
+    margin-top:15px;
+}
+.mt20{
+    margin-top:20px;
+}
+
+
+.mb0{
+    margin-bottom:0px;
+}
+.mb10{
+    margin-bottom:10px;
+}
+.mb15{
+    margin-bottom:15px;
+}
+.mb20{
+    margin-bottom:20px;
+}
+
+
+.ml0{
+    margin-left:0px;
+}
+.ml10{
+    margin-left:10px;
+}
+.ml15{
+    margin-left:15px;
+}
+.ml20{
+    margin-left:20px;
+}
+
+
+.mr0{
+    margin-right:0px;
+}
+.mr10{
+    margin-right:10px;
+}
+.mr15{
+    margin-right:15px;
+}
+.mr20{
+    margin-right:20px;
+}
+
+/*Color*/
+
+.black{
+    color: #333;
+}
+.gray-dark{
+    color:#505050; 
+}
+.gray-light{
+    color: #666;
+}
+.blue{
+    color: #36c;
+}
+
+/*Typography*/
+body{
+    font-family: -apple-system, BlinkMacSystemFont, “Segoe UI”, Roboto, “Helvetica Neue”, Ubuntu, Arial, sans-serif;
+}
+.fRegular{
+    font-weight: 400;
+}
+.fSemibold{
+    font-weight: 600;
+}
+.f13{
+    font-size: 13px;
+}
+.f15{
+    font-size: 15px;
+    line-height: 20px;
+}
+.f17{
+    font-size: 17px;
+    line-height: 22px;
+}
