@@ -1,0 +1,11 @@
+body{
+    background-color: #efefef;
+    margin:0;
+}
+.wrapper {
+    width:420px;
+    height: 565px;
+    margin: 0 auto;
+    background-color: #fff;
+    box-shadow: 0 0 2px rgba(0,0,0,0.2);
+}
