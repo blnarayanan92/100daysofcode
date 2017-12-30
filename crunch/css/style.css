@@ -21,14 +21,25 @@ figure>img {
 }
 
 .btn{
-    border:1px solid #36c;
     padding: 7px 15px;
-    color: #36c;
+    width: 14.2em;
     background-color: #fff;
     border-radius: 3px;
     cursor: pointer;
 }
-.btn:hover{
+.btn-blue{
+    color: #36c;
+    border:1px solid #36c;
+}
+.btn-blue:hover{
     background-color: #36c;
+    color: #fff;
+}
+.btn-black{
+    color: #333;
+    border:1px solid #333;
+}
+.btn-black:hover{
+    background-color: #333;
     color: #fff;
 }
