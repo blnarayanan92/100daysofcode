@@ -46,3 +46,10 @@ figure>img {
     color: #fff;
     transition: background-color .15s ease-in;
 }
+.arrows{
+    position: absolute;
+    top: 27vh;
+}
+.fa-arrow-right{
+    right: 0;
+}
