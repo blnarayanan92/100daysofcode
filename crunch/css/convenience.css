@@ -55,6 +55,63 @@
     margin-right:20px;
 }
 
+
+/*Padding*/
+.pt0{
+    padding-top:0px;
+}
+.pt10{
+    padding-top:10px;
+}
+.pt15{
+    padding-top:15px;
+}
+.pt20{
+    padding-top:20px;
+}
+
+
+.pb0{
+    padding-bottom:0px;
+}
+.pb10{
+    padding-bottom:10px;
+}
+.pb15{
+    padding-bottom:15px;
+}
+.pb20{
+    padding-bottom:20px;
+}
+
+
+.pl0{
+    padding-left:0px;
+}
+.pl10{
+    padding-left:10px;
+}
+.pl15{
+    padding-left:15px;
+}
+.pl20{
+    padding-left:20px;
+}
+
+
+.pr0{
+    padding-right:0px;
+}
+.pr10{
+    padding-right:10px;
+}
+.pr15{
+    padding-right:15px;
+}
+.pr20{
+    padding-right:20px;
+}
+
 /*Color*/
 
 .black{
