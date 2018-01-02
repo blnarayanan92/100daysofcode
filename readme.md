@@ -3,3 +3,6 @@ So, I've decided to take a leap of faith and plunge into this challenge. The mai
 
 ## Project 1 - Today's Crunch
 A news app that brings you just the top news of the day.
+
+## Project 2 - Quote Generator using JS
+A quote generator using Javascript
