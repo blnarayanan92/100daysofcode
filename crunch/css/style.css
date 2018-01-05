@@ -1,26 +1,27 @@
-body{
+body {
     background-color: #efefef;
-    margin:0;
+    margin: 0;
 }
+
 .card {
-    width:420px;
+    width: 420px;
     height: 595px;
     margin: 0 auto;
     background-color: #fff;
-    box-shadow: 0 0 2px rgba(0,0,0,0.2);
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.2);
 }
 
 figure {
-    margin:0;
+    margin: 0;
     height: 200px;
 }
 
-figure>img {
-    width:420px;
-    height:200px; 
+figure > img {
+    width: 420px;
+    height: 200px;
 }
 
-.btn{
+.btn {
     padding: 7px 15px;
     width: 14.2em;
     background-color: #fff;
@@ -28,28 +29,34 @@ figure>img {
     cursor: pointer;
     transition: background-color .15s ease-in;
 }
-.btn-blue{
+
+.btn-blue {
     color: #36c;
-    border:1px solid #36c;
+    border: 1px solid #36c;
 }
-.btn-blue:hover{
+
+.btn-blue:hover {
     background-color: #36c;
     color: #fff;
     transition: background-color .15s ease-in;
 }
-.btn-black{
+
+.btn-black {
     color: #333;
-    border:1px solid #333;
+    border: 1px solid #333;
 }
-.btn-black:hover{
+
+.btn-black:hover {
     background-color: #333;
     color: #fff;
     transition: background-color .15s ease-in;
 }
-.arrows{
+
+.arrows {
     position: absolute;
     top: 27vh;
 }
-.fa-arrow-right{
+
+.fa-arrow-right {
     right: 0;
 }

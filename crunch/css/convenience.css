@@ -1,150 +1,184 @@
-
 /*Margin*/
-.mt0{
-    margin-top:0px;
+
+.mt0 {
+    margin-top: 0px;
 }
-.mt10{
-    margin-top:10px;
+
+.mt10 {
+    margin-top: 10px;
 }
-.mt15{
-    margin-top:15px;
+
+.mt15 {
+    margin-top: 15px;
 }
-.mt20{
-    margin-top:20px;
+
+.mt20 {
+    margin-top: 20px;
 }
 
 
-.mb0{
-    margin-bottom:0px;
+.mb0 {
+    margin-bottom: 0px;
 }
-.mb10{
-    margin-bottom:10px;
+
+.mb10 {
+    margin-bottom: 10px;
 }
-.mb15{
-    margin-bottom:15px;
+
+.mb15 {
+    margin-bottom: 15px;
 }
-.mb20{
-    margin-bottom:20px;
+
+.mb20 {
+    margin-bottom: 20px;
 }
 
 
-.ml0{
-    margin-left:0px;
+.ml0 {
+    margin-left: 0px;
 }
-.ml10{
-    margin-left:10px;
+
+.ml10 {
+    margin-left: 10px;
 }
-.ml15{
-    margin-left:15px;
+
+.ml15 {
+    margin-left: 15px;
 }
-.ml20{
-    margin-left:20px;
+
+.ml20 {
+    margin-left: 20px;
 }
 
 
-.mr0{
-    margin-right:0px;
+.mr0 {
+    margin-right: 0px;
 }
-.mr10{
-    margin-right:10px;
+
+.mr10 {
+    margin-right: 10px;
 }
-.mr15{
-    margin-right:15px;
+
+.mr15 {
+    margin-right: 15px;
 }
-.mr20{
-    margin-right:20px;
+
+.mr20 {
+    margin-right: 20px;
 }
 
 
 /*Padding*/
-.pt0{
-    padding-top:0px;
+
+.pt0 {
+    padding-top: 0px;
 }
-.pt10{
-    padding-top:10px;
+
+.pt10 {
+    padding-top: 10px;
 }
-.pt15{
-    padding-top:15px;
+
+.pt15 {
+    padding-top: 15px;
 }
-.pt20{
-    padding-top:20px;
+
+.pt20 {
+    padding-top: 20px;
 }
 
 
-.pb0{
-    padding-bottom:0px;
+.pb0 {
+    padding-bottom: 0px;
 }
-.pb10{
-    padding-bottom:10px;
+
+.pb10 {
+    padding-bottom: 10px;
 }
-.pb15{
-    padding-bottom:15px;
+
+.pb15 {
+    padding-bottom: 15px;
 }
-.pb20{
-    padding-bottom:20px;
+
+.pb20 {
+    padding-bottom: 20px;
 }
 
 
-.pl0{
-    padding-left:0px;
+.pl0 {
+    padding-left: 0px;
 }
-.pl10{
-    padding-left:10px;
+
+.pl10 {
+    padding-left: 10px;
 }
-.pl15{
-    padding-left:15px;
+
+.pl15 {
+    padding-left: 15px;
 }
-.pl20{
-    padding-left:20px;
+
+.pl20 {
+    padding-left: 20px;
 }
 
 
-.pr0{
-    padding-right:0px;
+.pr0 {
+    padding-right: 0px;
 }
-.pr10{
-    padding-right:10px;
+
+.pr10 {
+    padding-right: 10px;
 }
-.pr15{
-    padding-right:15px;
+
+.pr15 {
+    padding-right: 15px;
 }
-.pr20{
-    padding-right:20px;
+
+.pr20 {
+    padding-right: 20px;
 }
 
 /*Color*/
 
-.black{
+.black {
     color: #333;
 }
-.gray-dark{
-    color:#505050; 
+
+.gray-dark {
+    color: #505050;
 }
-.gray-light{
+
+.gray-light {
     color: #666;
 }
-.blue{
+
+.blue {
     color: #36c;
 }
 
 /*Typography*/
-body{
+
+body {
     font-family: -apple-system, BlinkMacSystemFont, “Segoe UI”, Roboto, “Helvetica Neue”, Ubuntu, Arial, sans-serif;
 }
-.fRegular{
+
+.fRegular {
     font-weight: 400;
 }
-.fSemibold{
+
+.fSemibold {
     font-weight: 600;
 }
-.f13{
+
+.f13 {
     font-size: 13px;
 }
-.f15{
+
+.f15 {
     font-size: 15px;
     line-height: 20px;
 }
-.f17{
+
+.f17 {
     font-size: 17px;
     line-height: 22px;
 }
