@@ -182,3 +182,23 @@ body {
     font-size: 17px;
     line-height: 22px;
 }
+
+.p-relative{
+    position: relative;
+}
+
+.p-absolute{
+    position: absolute;
+}
+
+.d-block{
+    display: block;
+}
+
+.d-inline{
+    display: inline;
+}
+
+.d-inlineBlock{
+    display: inline-block
+}
