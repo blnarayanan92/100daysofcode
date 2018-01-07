@@ -183,22 +183,24 @@ body {
     line-height: 22px;
 }
 
-.p-relative{
+/*Common*/
+
+.p-relative {
     position: relative;
 }
 
-.p-absolute{
+.p-absolute {
     position: absolute;
 }
 
-.d-block{
+.d-block {
     display: block;
 }
 
-.d-inline{
+.d-inline {
     display: inline;
 }
 
-.d-inlineBlock{
+.d-inlineBlock {
     display: inline-block
 }
