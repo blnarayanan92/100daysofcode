@@ -6,3 +6,6 @@ A news app that brings you just the top news of the day.
 
 ## Project 2 - Quote Generator using JS
 A quote generator using Javascript
+
+## ScratchPad
+A practical playground where concepts are up for a toss.
