@@ -5,9 +5,11 @@ button.addEventListener('click', function(){
     var first = parseInt(one.value);
     var result = (first - 32) / 1.8;
     if (first !== NaN){
-        alert(result);
+//        alert(result);
+        document.getElementById('result').innerHTML = result;
     }
     else{
         alert("You need to enter a value");
     }
 });
+
