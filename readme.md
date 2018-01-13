@@ -11,4 +11,4 @@ A quote generator using Javascript
 A color generator using JS
 
 ## ScratchPad
-A practical playground where concepts are up for a toss.
+A practical playground where concepts are up for a toss and spin. 
