@@ -1,14 +1,12 @@
 var one = document.querySelector('.field');
 var button = document.querySelector('.getButton');
 
-button.addEventListener('click', function(){
+button.addEventListener('click', function () {
     var first = parseInt(one.value);
     var result = (first - 32) / 1.8;
-    if (first !== NaN){
+    if (first !== NaN) {
         document.getElementById('result').innerHTML = ('Celcius - ' + result);
-    }
-    else{
+    } else {
         alert("You need to enter a value");
     }
 });
-
