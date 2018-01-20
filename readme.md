@@ -26,6 +26,5 @@ A simple Fahrenheit to Celcius converter
 Taking up Wes bos Javascript30 challenge. - https://javascript30.com
 
 
-
 ## ScratchPad
 A practical playground where concepts are up for a toss and spin. 
