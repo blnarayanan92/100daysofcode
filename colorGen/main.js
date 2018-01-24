@@ -8,3 +8,4 @@ function getColor() {
 var color = getColor();
 document.getElementById('display').innerHTML = color;
 
+console.log(color);

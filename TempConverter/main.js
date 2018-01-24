@@ -6,7 +6,6 @@ button.addEventListener('click', function () {
     var result = (first - 32) / 1.8;
     if (first !== NaN) {
         document.getElementById('result').innerHTML = ('Celcius - ' + result);
-        console.log(result);
     } else {
         alert("You need to enter a value");
     }
